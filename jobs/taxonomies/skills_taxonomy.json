@@ -1,0 +1,10 @@
+{
+  "programming": ["python", "r", "java", "scala", "sql", "javascript"],
+  "ml_core": ["regression", "classification", "clustering", "time series", "feature engineering", "cross validation"],
+  "ml_tools": ["scikit-learn", "pandas", "numpy", "matplotlib", "pytorch", "tensorflow", "xgboost"],
+  "data": ["etl", "airflow", "dbt", "spark", "hadoop", "data modeling", "data warehousing"],
+  "cloud": ["aws", "azure", "gcp", "docker", "kubernetes"],
+  "viz": ["power bi", "tableau", "plotly", "dash", "superset"],
+  "nlp": ["nlp", "spacy", "transformers", "bert", "llm", "prompt engineering"],
+  "mle": ["mlops", "model monitoring", "feature store", "experiment tracking"]
+}

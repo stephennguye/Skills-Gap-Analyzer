@@ -1,0 +1,4 @@
+2025-08-22 23:59:14.743 | INFO     | nlp.parse_resume:extract_text:20 - Parsed resume: 4493 chars
+2025-08-22 23:59:14.777 | INFO     | nlp.skill_extractor:extract_skills:28 - Extracted 4 skills from resume
+2025-08-22 23:59:14.778 | INFO     | nlp.embeddings:get_model:10 - Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-08-22 23:59:18.999 | INFO     | recommender.course_recommender:recommend_courses:25 - Recommended 5 courses for gaps: ['sql', 'python', 'data visualization', 'statistics', 'excel', 'data cleaning', 'pandas', 'data wrangling', 'tableau', 'power bi', 'business intelligence', 'data storytelling']

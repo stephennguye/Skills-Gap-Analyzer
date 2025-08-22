@@ -1,0 +1,4 @@
+2025-08-23 00:41:50.043 | INFO     | nlp.parse_resume:extract_text:20 - Parsed resume: 4493 chars
+2025-08-23 00:41:50.066 | INFO     | nlp.skill_extractor:extract_skills:44 - Extracted 6 skills from resume (taxonomy + extras)
+2025-08-23 00:41:50.068 | INFO     | nlp.embeddings:get_model:10 - Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2025-08-23 00:41:54.597 | INFO     | recommender.course_recommender:recommend_courses:25 - Recommended 5 courses for gaps: []

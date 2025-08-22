@@ -1,0 +1,6 @@
+provider,title,url,skills,tier
+Coursera,Machine Learning by Andrew Ng,https://www.coursera.org/learn/machine-learning,"machine learning, regression, classification",beginner
+Coursera,Deep Learning Specialization,https://www.coursera.org/specializations/deep-learning,"neural networks, deep learning, cnn, rnn",intermediate
+edX,Data Science Essentials,https://www.edx.org/learn/data-science,"python, statistics, visualization",beginner
+Udacity,Data Engineering Nanodegree,https://www.udacity.com/course/data-engineering-nanodegree--nd027,"etl, airflow, data modeling, aws",intermediate
+Datacamp,SQL Fundamentals,https://www.datacamp.com/courses/introduction-to-sql,"sql",beginner
