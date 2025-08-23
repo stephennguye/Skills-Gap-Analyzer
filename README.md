@@ -1,8 +1,8 @@
-# 🧭 AI Skills Gap Analyzer  
+# AI Skills Gap Analyzer  
 An early prototype that **analyzes a resume against a chosen job role** and highlights:  
-- ✅ **Match percentage score**  
-- ❗ **Missing required & nice-to-have skills**  
-- 📚 **Recommended courses/resources**  
+- **Match percentage score**  
+- **Missing required & nice-to-have skills**  
+- **Recommended courses/resources**  
 
 ---
 
@@ -34,3 +34,4 @@ This prototype lays the foundation for a much richer system:
 - **Dashboard View** → Track progress and skill acquisition over time  
 
 ---
+
