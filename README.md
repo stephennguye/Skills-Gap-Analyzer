@@ -16,8 +16,11 @@ Today’s job market changes quickly, and students often don’t know what skill
 
 ## Current Prototype  
 You paste **resume text** 
+
 You select **target job role** 
+
 You click **Analyze**  
+
 You get:  
   - A **percentage fit score**  
   - A list of **missing skills**  
@@ -51,6 +54,7 @@ Example:
 - **Enhanced Matching Algorithm**: Hybrid scoring combining semantic, keyword-based, and contextual relevance for improved accuracy.
 
 ---
+
 
 
 
