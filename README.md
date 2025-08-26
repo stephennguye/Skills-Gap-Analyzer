@@ -28,25 +28,26 @@ Example:
 ## Tech Stack Overview
 
 ### Current Stack
-- **Frontend**: [Streamlit 1.38.0](https://streamlit.io/) – rapid UI prototyping and interactive dashboards.  
+- **Frontend**: [Streamlit 1.38.0](https://streamlit.io/) for rapid UI prototyping and interactive dashboards.  
 - **Core Libraries**:
-  - **NLP & Embeddings**: `spaCy 3.7.4`, `sentence-transformers 3.0.1` – text processing and semantic similarity.
-  - **Matching & Scoring**: `scikit-learn 1.5.1`, `numpy 1.26.4`, `pandas 2.2.2` – vector similarity, scoring algorithms, and structured data management.
-  - **Document Parsing**: `pdfplumber 0.11.4`, `python-docx 1.1.2`, `trafilatura 1.9.0` – extraction from PDFs, DOCX files, and HTML sources.
-  - **Logging & Utilities**: `loguru 0.7.2`, `tqdm 4.66.4`, `requests 2.32.3`, `joblib 1.4.2` – logging, progress tracking, API interaction, and caching.
-- **Visualization**: `plotly 5.23.0` – dynamic visual insights.
+  - **NLP & Embeddings**: `spaCy 3.7.4`, `sentence-transformers 3.0.1` for text processing and semantic similarity.
+  - **Matching & Scoring**: `scikit-learn 1.5.1`, `numpy 1.26.4`, `pandas 2.2.2` for vector similarity, scoring algorithms, and structured data management.
+  - **Document Parsing**: `pdfplumber 0.11.4`, `python-docx 1.1.2`, `trafilatura 1.9.0` for extraction from PDFs, DOCX files, and HTML sources.
+  - **Logging & Utilities**: `loguru 0.7.2`, `tqdm 4.66.4`, `requests 2.32.3`, `joblib 1.4.2` for logging, progress tracking, API interaction, and caching.
+- **Visualization**: `plotly 5.23.0` for dynamic visual insights.
 
 ### Strengths
 - Modular and lightweight architecture for easy scaling.
 - Robust NLP pipeline enabling semantic job-skill matching.
-- Supports multiple data formats (PDF, DOCX, Web).
+- Supports multiple data formats (PDF, DOCX,...).
 - Clear visual representation of skill gap analysis.
 
 ### Future Enhancements
-- **LLM Integration** – Utilize Large Language Models for deeper context-aware matching and skill inference.  
-- **RAG (Retrieval-Augmented Generation)** – Integrate external knowledge sources (ESCO, O*NET) to enhance career insights.  
-- **AI Career Agent** – Interactive AI assistant for skill gap detection, training recommendations, and personalized career guidance.  
-- **Enhanced Matching Algorithm** – Hybrid scoring combining semantic, keyword-based, and contextual relevance for improved accuracy.
+- **LLM Integration**: Utilize Large Language Models for deeper context-aware matching and skill inference.  
+- **RAG (Retrieval-Augmented Generation)**: Integrate external knowledge sources (ESCO, O*NET) to enhance career insights.  
+- **AI Career Agent**: Interactive AI assistant for skill gap detection, training recommendations, and personalized career guidance.  
+- **Enhanced Matching Algorithm**: Hybrid scoring combining semantic, keyword-based, and contextual relevance for improved accuracy.
 
 ---
+
 
