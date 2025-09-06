@@ -1,4 +1,4 @@
-# AI Skills Gap Analyzer  
+# Skills Gap Analyzer  
 An early prototype that **analyzes a resume against a chosen job role** and highlights:  
 - **Match percentage score**  
 - **Missing required & nice-to-have skills**  
@@ -54,7 +54,3 @@ Example:
 - **Enhanced Matching Algorithm**: Hybrid scoring combining semantic, keyword-based, and contextual relevance for improved accuracy.
 
 ---
-
-
-
-
